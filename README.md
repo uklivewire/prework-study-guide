@@ -1,6 +1,8 @@
 # prework-study-guide-webpage
 
-## Study Guide Website built for students on Frontend Developer Bootcamp and contains notes on HTML, CSS and Java script and Git. 
+## Description 
+
+Study Guide Website built for students on Frontend Developer Bootcamp and contains notes on HTML, CSS and Java script and Git. 
 
 ## Installation
 
